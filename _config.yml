@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: Violetz Theme
+description: "Violetz theme is a theme for Jekyll made by yours truly."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
