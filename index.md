@@ -1,5 +1,6 @@
 ---
 title: Violetz Theme
+layout: default
 ---
 
 # violetz-theme
